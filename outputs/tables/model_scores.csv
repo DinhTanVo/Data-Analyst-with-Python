@@ -1,0 +1,6 @@
+model,r2
+single_feature_linear_r2,0.4928532179037931
+multiple_feature_linear_r2,0.6576951666037498
+polynomial_pipeline_r2,0.7513408515988733
+ridge_test_r2,0.6478759163939114
+polynomial_ridge_test_r2,0.7002744285255961
